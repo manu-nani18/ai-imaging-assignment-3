@@ -1,0 +1,30 @@
+{
+  "image": "representative_grayscale_256.png",
+  "naive": "The image presents a microscopic view of cells, with the primary focus being on the cell in the center-left of the image. The cell is characterized by its round shape and relatively large size compared to the other cells present.\n\n*   **Cell in the Center-Left**\n    *   Shape: Round\n    *   Size: Larger than the surrounding cells\n    *   Color: Light gray or white\n*   **Other Cells**\n    *   Number: Several are visible around the central cell\n    *   Shape: Smaller and more irregular compared to the central cell\n    *   Color: Darker gray or black\n*   **Background**\n    *   Color: Black\n\nThe image suggests that it is a microscopic view of cells, possibly from a biological sample such as blood or tissue. The presence of multiple cells with varying sizes and shapes indicates diversity in cell types or stages of development within the sample.",
+  "optimised_runs": [
+    {
+      "modality": "fluorescence microscopy",
+      "tissue_type": "cell culture",
+      "notable_features": [
+        "cells with distinct nuclei and cytoplasm"
+      ],
+      "image_quality": "good"
+    },
+    {
+      "modality": "fluorescence microscopy",
+      "tissue_type": "cell culture",
+      "notable_features": [
+        "round, light grey cells"
+      ],
+      "image_quality": "good"
+    },
+    {
+      "modality": "fluorescence microscopy",
+      "tissue_type": "uncertain",
+      "notable_features": [
+        "brightly stained nuclei, faint cytoplasmic staining"
+      ],
+      "image_quality": "good"
+    }
+  ]
+}

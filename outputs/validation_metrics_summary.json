@@ -1,0 +1,6 @@
+{
+  "loss_mode": "bce_dice",
+  "mean_dice": 0.9951559974032028,
+  "mean_iou": 0.9903617927737935,
+  "n_images": 20
+}

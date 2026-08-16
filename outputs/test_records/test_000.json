@@ -1,0 +1,10 @@
+{
+  "record": {
+    "image_id": "test_000",
+    "n_objects": 8,
+    "mean_area": 191.88,
+    "density_class": "sparse",
+    "quality_flag": "ok"
+  },
+  "narrative": "The image has 8 objects with a mean area of 191.88 square units and was classified as having a sparse density. The automated quality flag is ok."
+}

@@ -1,0 +1,19 @@
+{
+  "image": "train_000.png",
+  "measurements": {
+    "n_objects": 9,
+    "foreground_fraction": 0.02,
+    "mean_area": 145.67,
+    "mean_eccentricity": 0.4971,
+    "mean_solidity": 0.9383,
+    "mean_intensity": 0.2606,
+    "density_class_rule": "sparse",
+    "otsu_threshold": 0.1372
+  },
+  "llm_record": {
+    "n_objects": 9,
+    "density_class": "sparse",
+    "shape_regularity": "mixed",
+    "quality_flag": "ok"
+  }
+}

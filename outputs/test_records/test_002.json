@@ -1,0 +1,10 @@
+{
+  "record": {
+    "image_id": "test_002",
+    "n_objects": 26,
+    "mean_area": 219.81,
+    "density_class": "normal",
+    "quality_flag": "ok"
+  },
+  "narrative": "The image \"test_002\" contains 26 objects with a mean area of 219.81 square units and was classified as having a density class of \"normal\". The automated quality flag for this analysis is currently set to \"ok\"."
+}

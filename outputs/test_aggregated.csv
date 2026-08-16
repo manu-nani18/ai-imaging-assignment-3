@@ -1,0 +1,13 @@
+image_id,n_objects,mean_area,density_class,quality_flag
+test_000,8,191.88,sparse,ok
+test_001,14,201.29,sparse,ok
+test_002,26,219.81,normal,ok
+test_003,19,204.79,normal,ok
+test_004,42,336.5,normal,ok
+test_005,16,406.56,normal,ok
+test_006,8,198.62,sparse,ok
+test_007,23,206.0,normal,ok
+test_008,23,240.09,normal,ok
+test_009,21,179.19,normal,ok
+test_010,36,364.14,normal,ok
+test_011,20,184.95,normal,ok
